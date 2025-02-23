@@ -1,0 +1,14 @@
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/Compund Intrest Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/Compund Intrest Calculator.AssemblyInfoInputs.cache
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/Compund Intrest Calculator.AssemblyInfo.cs
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/Compund Intrest Calculator.csproj.CoreCompileInputs.cache
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/bin/Debug/net9.0/Compund Intrest Calculator
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/bin/Debug/net9.0/Compund Intrest Calculator.deps.json
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/bin/Debug/net9.0/Compund Intrest Calculator.runtimeconfig.json
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/bin/Debug/net9.0/Compund Intrest Calculator.dll
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/bin/Debug/net9.0/Compund Intrest Calculator.pdb
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/Compund Intrest Calculator.dll
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/refint/Compund Intrest Calculator.dll
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/Compund Intrest Calculator.pdb
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/Compund Intrest Calculator.genruntimeconfig.cache
+/Users/jamesrobertson/RiderProjects/Compund Intrest Calculator/Compund Intrest Calculator/obj/Debug/net9.0/ref/Compund Intrest Calculator.dll
